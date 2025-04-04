@@ -1,4 +1,4 @@
-# Global Electronics Retailer Regional Sales Insights 2019 - 2020- Project Overview
+# Green Clean Global Electronics Retailer Regional Sales Insights 2019 - 2020- Project Overview
 ## The goal of this project is to investigate the performance of regional sales at Global Electronics Retailer to assist the Regional Sales Manager in analysing sales performance 2019 – 2020 and predict 2021 sale trends. 
 
 The company has significant amounts of data on its sales, regional across the world, product and customer has been previously underutilized. This project thoroughly analyses and synthesizes this data to uncover critical insights that will help manager understand their own market.
@@ -32,7 +32,7 @@ The dataset consisted of five tables, including information about sales data, cu
 - ** 2021 Forecast & Trend Strategy**: Prepare early for peak demand between December – February period, leverage seasonal marketing campaigns year-round, and use predictive data to optimize ad spend and inventory planning.
 
 ## Dashboard
-The dashboard can be found in PowerBI Service [here](public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by year, regional and focuses on trends and values in sales, product category and customer segment.
+The dashboard can be found in PowerBI Service [here](https://app.powerbi.com/view?r=eyJrIjoiMzc3Y2Y1M2YtZWI0Yi00NzAwLWIyNTctMzI1MGYwMmM5OWM3IiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9). This dashboard enables users to filter by year, regional and focuses on trends and values in sales, product category and customer segment.
 
 <img width="812" alt="image" src="https://github.com/JennyNgo273/GlobalElectronicRetailer/blob/master/Img/Dashboard.png">
 <img width="812" alt="image" src="https://github.com/JennyNgo273/GlobalElectronicRetailer/blob/master/Img/customer_details.png">
